@@ -5,7 +5,7 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
 ## Project Structure
 
-- `Home_Sales.ipynb`: The Jupyter Notebook containing the complete code for the challenge.
+- [Home_Sales.ipynb](https://github.com/myhre062/Home_Sales/blob/main/Home_Sales.ipynb): The Jupyter Notebook containing the complete code for the challenge.
 
 ## Tasks
 
@@ -39,7 +39,7 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 ## How to Run
 
 1. Ensure you have a suitable environment for running Spark, such as Google Colab or a local setup with Jupyter Notebook.
-2. Open `Home_Sales.ipynb` in your environment.
+2. Open [Home_Sales.ipynb](https://github.com/myhre062/Home_Sales/blob/main/Home_Sales.ipynb) in your environment.
 3. Follow the notebook cells sequentially to execute the tasks.
 
 ## Key Points
